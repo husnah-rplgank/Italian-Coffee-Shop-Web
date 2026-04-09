@@ -1,7 +1,7 @@
 🍝 Trattoria Cafe - Italian Aesthetic Brews ☕️
 
 <div align="center">
-  <img src="https://i.imgur.com/8Q9N5U9.png" alt="Tonio Trussardi Looking Fancy" width="300">
+  <img src="https://static.jojowiki.com/images/thumb/8/85/latest/20220611080838/AnimeDU_TrussardiFrontExt2.png/400px-AnimeDU_TrussardiFrontExt2.png" alt="Tonio Trussardi Looking Fancy" width="300">
   <br>
   <i>"Benvenuti! Selamat datang di rasa nyaman yang sesungguhnya!" - Tonio, probably.</i>
   <br><br>
@@ -23,7 +23,7 @@ Sama seperti masakan Tonio yang menggunakan Stand **[Pearl Jam]** untuk menyembu
 Web ini bukan sembarang web statis. Kami menggabungkan keanggunan klasik Italia dengan semangat para *Stand User*!
 
 <div align="center">
-  <img src="https://i.imgur.com/uFp74yH.png" alt="Noriaki Kakyoin posing" width="250">
+  <img src="https://64.media.tumblr.com/73feaee5fabb0249bf5daf3ca4696c15/b3420294e593a063-39/s640x960/3fb2f59703066aeebbd145c98b1db224edeb34c5.gif" alt="Noriaki Kakyoin posing" width="250">
   <br>
   <i>Kakyoin approve warna-warna ini. 🍒</i>
 </div>
@@ -74,7 +74,7 @@ Proyek ini dibuat sebagai penghormatan kepada **Tonio Trussardi**, pemilik resto
 Proyek ini berada di bawah lisensi **MIT**. Silakan gunakan, modifikasi, dan bagikan untuk keperluan belajar, portofolio, atau jika kamu ingin membuka cafe di Morioh!
 
 <div align="center">
-  <img src="https://i.imgur.com/X4y1LhG.png" alt="Pearl Jam Stand" width="150">
+  <img src="https://static.jojowiki.com/images/thumb/b/b5/latest/20230914172653/Unit_Tonio_Trussardi_%28Main_Dish%29.png/350px-Unit_Tonio_Trussardi_%28Main_Dish%29.png" alt="Pearl Jam Stand" width="150">
   <br>
   <b>Dibuat dengan ❤️ dan sedikit bantuan dari [Pearl Jam].</b>
   <br>
