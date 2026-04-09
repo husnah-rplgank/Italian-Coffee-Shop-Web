@@ -1,5 +1,3 @@
-🍝 Trattoria Cafe - Italian Aesthetic Brews ☕️
-
 <div align="center">
   <img src="https://static.jojowiki.com/images/thumb/8/85/latest/20220611080838/AnimeDU_TrussardiFrontExt2.png/400px-AnimeDU_TrussardiFrontExt2.png" alt="Tonio Trussardi Looking Fancy" width="300">
   <br>
