@@ -1,37 +1,55 @@
-☕ Trattoria Trussardi - Aesthetic Coffee Shop Web
+# 🍝 Trattoria Cafe - Italian Aesthetic Brews
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jojo Reference](https://img.shields.io/badge/JoJo-Reference-blueviolet)](https://jojowiki.com/Tonio_Trussardi)
+![Theme: JoJo Part 4](https://img.shields.io/badge/Theme-JJBA%20Part%204-red)
+![Character: Tonio Trussardi](https://img.shields.io/badge/Chef-Tonio%20Trussardi-green)
 
-> *"Silakan masuk... Saya akan menyembuhkan segala keluhan Anda melalui hidangan yang saya buat dengan sepenuh hati."* — **Tonio Trussardi**
+Selamat datang di repositori **Trattoria Cafe**, sebuah proyek landing page web statis yang terinspirasi dari keahlian kuliner **Tonio Trussardi** dari *JoJo's Bizarre Adventure: Diamond is Unbreakable*. 
 
-Repositori ini berisi kode sumber untuk landing page **Trattoria Cafe**, sebuah situs web kedai kopi Italia yang terinspirasi dari karakter koki legendaris dari Morioh, Tonio Trussardi. Proyek ini menonjolkan estetika minimalis dengan sentuhan warna-warna ikonik seperti *Emerald*, *Crimson*, dan *Chocolate*.
+Sama seperti masakan Tonio yang menggunakan Stand **[Pearl Jam]** untuk menyembuhkan pelanggan, web ini dirancang dengan antarmuka yang bersih, estetik, dan menenangkan untuk memberikan pengalaman visual yang menyegarkan.
 
-🍝 Fitur Utama
-* **Desain Responsif**: Tampilan yang menyesuaikan dengan perangkat mobile maupun desktop.
-* **Aesthetic Menu Grid**: Galeri menu kopi dengan efek hover interaktif yang elegan.
-* **Warna Khas Tonio**: Menggunakan palet warna kustom yang mencerminkan nuansa Italia dan Stand *Pearl Jam*.
-* **Typography Premium**: Menggunakan kombinasi font *Playfair Display* untuk kesan klasik dan *Poppins* untuk kesan modern.
+🎨 Filosofi Desain
+Web ini menggabungkan elemen klasik Italia dengan palet warna ikonik dari karakter favorit:
+* **Emerald Green & Crimson Red**: Terinspirasi dari palet warna **Noriaki Kakyoin** (Hierophant Green).
+* **Chocolate & Cream**: Memberikan kesan hangat khas kopi Italia yang autentik.
+* **Typography**: Menggunakan *Playfair Display* untuk kesan premium dan *Poppins* untuk keterbacaan modern.
 
-🎨 Palet Warna
-| Warna | Hex | Deskripsi |
-| --- | --- | --- |
-| **Chocolate** | `#3D2317` | Melambangkan kopi espresso yang bold. |
-| **Emerald** | `#044A42` | Nuansa Stand Pearl Jam & kesegaran bahan makanan. |
-| **Crimson** | `#9E1B32` | Aksen stroberi dan semangat Italia. |
-| **Cream** | `#FDFAF5` | Latar belakang yang lembut dan bersih. |
+✨ Fitur Utama
+* **Responsive Design**: Tampilan yang tetap rapi di berbagai ukuran layar.
+* **Interactive Menu**: Efek hover interaktif yang mengubah skema warna item menu secara dinamis.
+* **JJBA Themed Content**: Nama menu unik seperti *Red-Emerald Latte* dan *Crimson Brew*.
+* **Clean Code**: Struktur HTML5 dan CSS3 yang mudah dipahami dan dimodifikasi.
+
+🚀 Cara Menjalankan Proyek
+
+1. **Clone repositori ini:**
+   ```bash
+   git clone [https://github.com/username-kamu/trattoria-cafe.git](https://github.com/username-kamu/trattoria-cafe.git)
+   Siapkan Aset Gambar:
+
+2. **Pastikan file gambar berikut berada dalam folder yang sama dengan index.html:**
+
+tonio restaurant.png
+iced cappuchiiinooo.jpg
+stoberi matcha.jpg
+Mocha Latte.jpg
+stroberi latte.jpg
+
+3. **Buka Proyek:**
+Buka file index.html di browser favoritmu atau gunakan ekstensi Live Server di VS Code.
+
+👨‍🍳 Inspirasi Karakter
+*"Melihat pelanggan makan dengan lahap dan menjadi sehat kembali... Itulah kebahagiaan terbesar bagi seorang koki."*
+
+Proyek ini dibuat sebagai penghormatan kepada Tonio Trussardi, pemilik restoran Trattoria Trussardi di Morioh. Seperti cara Tonio melayani pelanggannya dengan ketulusan dan perhatian pada detail terkecil, kode ini ditulis dengan prinsip kebersihan untuk memberikan pengalaman pengguna yang "menyembuhkan".
 
 🛠️ Teknologi yang Digunakan
-* **HTML5**: Struktur semantik untuk SEO dan aksesibilitas.
-* **CSS3**: Custom properties (Variables), Flexbox, dan animasi transisi.
-* **Google Fonts**: Integrasi font eksternal.
+1. HTML5 - Struktur konten.
+2. CSS3 - Styling dengan variabel warna dan animasi transisi.
+3. Google Fonts - Playfair Display & Poppins.
 
-📂 Struktur Folder
-```text
-.
-├── index.html          # File utama (Struktur Web)
-├── style.css           # Styling dan Animasi
-└── assets/             # Folder gambar (Hero & Menu)
-    ├── tonio-restaurant.png
-    ├── iced-cappuccino.jpg
-    └── ...
+📜 Lisensi
+Proyek ini berada di bawah lisensi MIT. Silakan gunakan, modifikasi, dan bagikan untuk keperluan belajar atau portofolio kamu!
+
+Dibuat dengan ❤️ dan sedikit bantuan dari [Pearl Jam].
+*"Arrivederci!"*
