@@ -12,13 +12,11 @@
 
 👋 Benvenuti!
 
-Selamat datang di repositori **Trattoria Cafe**, sebuah proyek landing page web statis yang dibuat dengan penuh *Cinta* (dan mungkin sedikit Stand energy ✨). Web ini terinspirasi dari keahlian kuliner ajaib **Tonio Trussardi** dari *JoJo's Bizarre Adventure: Diamond is Unbreakable*. 
+Selamat datang di repositori **Trattoria Cafe**, sebuah proyek landing page web statis yang dibuat dengan penuh *Cinta*. Web ini terinspirasi dari keahlian kuliner ajaib **Tonio Trussardi** dari *JoJo's Bizarre Adventure: Diamond is Unbreakable*. 
 
 Sama seperti masakan Tonio yang menggunakan Stand **[Pearl Jam]** untuk menyembuhkan segala penyakit (bahkan mata lelah karena *coding*), web ini dirancang dengan antarmuka yang bersih, estetik, dan menenangkan untuk memberikan pengalaman visual yang menyegarkan jiwa dan raga.
 
 🎨 Filosofi Desain (The *Bizarre* Palette)
-
-Web ini bukan sembarang web statis. Kami menggabungkan keanggunan klasik Italia dengan semangat para *Stand User*!
 
 <div align="center">
   <img src="https://64.media.tumblr.com/73feaee5fabb0249bf5daf3ca4696c15/b3420294e593a063-39/s640x960/3fb2f59703066aeebbd145c98b1db224edeb34c5.gif" alt="Noriaki Kakyoin posing" width="250">
@@ -26,19 +24,18 @@ Web ini bukan sembarang web statis. Kami menggabungkan keanggunan klasik Italia 
   <i>Kakyoin approve warna-warna ini. 🍒</i>
 </div>
 
-* **🟢 Emerald Green & 🔴 Crimson Red**: Palet utama yang dicuri... eh, *diinspirasikan* langsung dari skema warna Stand milik **Noriaki Kakyoin**, **[Hierophant Green]**. Kenapa? Karena *Emerald Splash* itu keren, dan Crimson Red itu... ya, merah. Cocok buat kopi!
-* **🤎 Chocolate & 🥛 Cream**: Memberikan kesan hangat, manis, dan autentik khas kopi Italia. Dijamin tidak bikin sakit perut (kecuali Pearl Jam bekerja).
+* **🟢 Emerald Green & 🔴 Crimson Red**: Palet utama yang dicuri... eh, *diinspirasikan* langsung dari skema warna Stand milik **Noriaki Kakyoin**, **[Hierophant Green]**. Kenapa? Karena *Emerald Splash* itu keren, dan Crimson Red itu... ya, merah. JADI TERINGAT RAMBUT KAKYOIN!
+* **🤎 Chocolate & 🥛 Cream**: Memberikan kesan hangat, manis, dan autentik khas kopi Italia. Dijamin tidak bikin sakit perut.
 * **✒️ Typography**: Menggunakan *Playfair Display* untuk kesan premium ala restoran bintang lima, dan *Poppins* untuk keterbacaan modern yang santai.
 
 ✨ Fitur Utama
 
 * **📱 Responsive Design**: Tampilan yang tetap rapi di berbagai ukuran layar. Dari HP Josuke sampai monitor desktop Speedwagon Foundation.
 * **🖱️ Interactive Menu**: Efek hover interaktif yang mengubah skema warna item menu secara dinamis. *"NANI?! Warnanya berubah!"*
-* **☕ JJBA Themed Content**: Nama menu unik seperti *Red-Emerald Latte* (referensi terselubung Kakyoin) dan *Crimson Brew*.
-* **🧹 Clean Code**: Struktur HTML5 dan CSS3 yang mudah dipahami, bersih dari *bug* (kecuali bug yang dimakan Pearl Jam).
+* **☕ JJBA Themed Content**: Nama menu unik seperti *Red-Emerald Latte* (referensi terselubung Kakyoin) dan *Crimson Brew*(dari stand King Crimson milik Diavollo).
+* **🧹 Clean Code**: Struktur HTML5 dan CSS3 yang mudah dipahami, bersih dari *bug* (semoga...)
 
-🚀 Cara Menjalankan Proyek (Tanpa Perlu Memanggil Stand)
-
+🚀 Cara Menjalankan Proyek
 1.  **Clone repositori ini:**
     ```bash
     git clone [https://github.com/username-kamu/trattoria-cafe.git](https://github.com/username-kamu/trattoria-cafe.git)
